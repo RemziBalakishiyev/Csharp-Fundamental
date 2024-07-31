@@ -97,14 +97,14 @@ arrayListPractices.GivePractice();
 
 // 1,2,3,3,3,4,5,6,6,3,2,1,10; Unique
 
-HashSet<int> numbers = new HashSet<int>
-{
-    1,2,3,3,3,4,5,6,6,3,2,1,10
-};
+//HashSet<int> numbers = new HashSet<int>
+//{
+//    1,2,3,3,3,4,5,6,6,3,2,1,10
+//};
 
 
-foreach (int num in numbers)
-{
-    Console.WriteLine(num);
-}
+//foreach (int num in numbers)
+//{
+//    Console.WriteLine(num);
+//}
 
